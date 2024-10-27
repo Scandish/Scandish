@@ -23,6 +23,8 @@ I'm also an amateur floorball player, and a pursuing content creator where i sha
 🌐 Connect with me:
 
 * [LinkedIn](https://www.linkedin.com/in/orlando-thalberg-5a730125a/fff)
+* [Student](orlandot@uio.no)
+* [Personal](orlando.thalberg@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💻 Tech Stack:
