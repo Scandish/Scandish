@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi 👋 I'm Orlando Thalberg
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💫 About Me:
 
-<!--
-**Scandish/Scandish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Computer science and robotics student at University of Oslo, passionate about exploring the realms of coding, machine learning, math, content creation and building robust applications.
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀 What I'm Up To:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Building a Mircoblog with Flask
+* 🤖 Exploring and building up coding skills
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🎓 About Me:
+
+I'm also an amateur floorball player, and a pursuing content creator where i share personal experiences about life, education, hobbies and projects.
+
+* [Instagram](https://www.instagram.com/orlando.thalberg/)
+
+* [YouTube](https://www.youtube.com/@orlandot6)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🌐 Connect with me:
+
+* [LinkedIn](https://www.linkedin.com/in/orlando-thalberg-5a730125a/fff)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+💻 Tech Stack:
+
+* Languages: Python🐍, HTML & CSS
+
+* Developer Tools:
+
+* Frameworks/Libraries:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
