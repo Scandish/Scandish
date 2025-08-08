@@ -3,7 +3,7 @@ Hi 👋 I'm Orlando Thalberg
 💫 About Me:
 
 Currently first year Economics (SivilØkonom) student @ BI Business School
-I studied 1 year with Computer science and robotics student at University of Oslo, passionate about exploring the realms of coding, machine learning, math, economics, finance and  content creation and building robust applications.
+I studied 1 year Computer science and robotics student at University of Oslo, passionate about exploring the realms of coding, machine learning, math, economics, finance and  content creation and building robust applications.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 What I'm Up To:
